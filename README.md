@@ -2,7 +2,7 @@
 
 ## Summary
 
-This capstone project examines the costs of console gaming through the years, accounting for inflation, and stacking it against other media from the same years. I look to examine almost 50 years of data and provide insights to one of the largest growing media of our time. 
+This capstone project examines the costs of console gaming through the years, accounting for inflation, and finding when gaming was at its peak for value and variety. I look to examine almost 50 years of data and provide insights to one of the largest growing media of our time. 
 
 ## Motivation
 
@@ -20,14 +20,14 @@ The following questions were also looked at:
 
 ## Data Tools
    - Excel - Data cleaning and manipulation
-   - Python - Filtering, analysis, and preliminary data visualization
+   - Python - Data cleaning, manipulation, filtering, analysis, and preliminary data visualization
    - Power BI - Interactive dashboard to present findings
 
 ## Issues and Challenges
 
 Peripheral data and discount data are nonexistent. With fluctuations in discounts, it wasn't possible to find when the best time to buy product would have been. Peripherals come in various forms and was not considered for this analysis. 
 
-Like modern day streaming taking over the industry and leaving physical media like DVD's in the background, gaming has had the same thing happen with "freemium" titles. As profit shifted from a physical console with a physical cartridge or disc to digital sales, we've seen a huge shift in software related changes. Free titles generate most of the industries profit through downloadable content and in-game purchases while mobile gaming has taken off among every generation for its ease of access. This led to many challenges surrounding finding information on platform specific sales and most of it is proprietary unless the company has previously mentioned their sales. 
+Like modern day streaming taking over the movie industry and leaving physical media like DVD's in the background, gaming has had the same happen with "freemium" titles. As profit shifted from a physical console with a physical cartridge or disc to digital sales, we've seen a huge shift in software related changes. Free titles generate most of the industries profit through downloadable content and in-game purchases while mobile gaming has taken off among every generation for its ease of access. This led to many challenges surrounding finding information on platform specific sales and most of it is proprietary unless the company has previously mentioned their sales. 
 
 I had to limit my time period up to 2016 for games as that is where the dataset ended while I did also did not include every off-market console as many countries create their own brands of the same system. 
 
