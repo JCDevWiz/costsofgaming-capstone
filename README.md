@@ -14,7 +14,7 @@ What is the cost of gaming over the last 50 years? Adjusted for inflation is it 
 
 The following questions were also looked at:
 
-   - When was the peak of gaming so far? The most affordability, most product, etc. 
+   - When was the peak of gaming so far? The most affordabile, most product, etc. 
    - What was the percentage of games created in different decades?
    - Against other media, which had the best/worst inflation?
 
