@@ -8,6 +8,8 @@ This capstone project examines the costs of console gaming through the years, ac
 
 - [Gaming Revenue (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiOTEwOWVhYTMtZDkxZS00YjdhLWI0ZWUtNDAzMjk3NWU0OTY3IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
+-[Gaming Through the Decades](https://1drv.ms/b/c/0122c05e996191ee/IQBUzr3Skqr9TrJIQGfXnj8HAdyoX6ipaI68ZrCr5MLnF20?e=MbmUIG)
+
 ## Motivation
 
 I’ve always been a gamer since I was around 5 years old. I started on the NES classic which came out in 1985 before I got my N64 which came out in 1996. I find the gaming industry fascinating as it has become one of the top forms of media in the world. Much like the motion picture of the 1900’s, gaming is the 2000’s world wonder and a billion-dollar industry every year. I want to analyze the differences in time periods and what the costs were in each decade to find out when gaming was considered at its peak for value and profit. Or are we not there yet?
