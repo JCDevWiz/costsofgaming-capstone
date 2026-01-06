@@ -8,7 +8,7 @@ This capstone project examines the costs of console gaming through the years, ac
 
 - [Gaming Revenue (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiOTEwOWVhYTMtZDkxZS00YjdhLWI0ZWUtNDAzMjk3NWU0OTY3IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
--[Gaming Through the Decades](https://1drv.ms/b/c/0122c05e996191ee/IQBUzr3Skqr9TrJIQGfXnj8HAdyoX6ipaI68ZrCr5MLnF20?e=MbmUIG)
+- [Gaming Through the Decades](https://1drv.ms/b/c/0122c05e996191ee/IQBUzr3Skqr9TrJIQGfXnj8HAdyoX6ipaI68ZrCr5MLnF20?e=MbmUIG)
 
 ## Motivation
 
