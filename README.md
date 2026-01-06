@@ -2,7 +2,11 @@
 
 ## Summary
 
-This capstone project examines the costs of console gaming through the years, accounting for inflation, and finding when gaming was at its peak for value and variety. I look to examine almost 50 years of data and provide insights to one of the largest growing media of our time. 
+This capstone project examines the costs of console gaming through the years, accounting for inflation, and finding when gaming was at its peak for value and variety. I look to examine almost 50 years of data and provide insights to one of the largest growing media of our time.
+
+## Links
+
+- [Gaming Revenue (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiOTEwOWVhYTMtZDkxZS00YjdhLWI0ZWUtNDAzMjk3NWU0OTY3IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 ## Motivation
 
